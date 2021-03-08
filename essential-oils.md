@@ -1,3 +1,5 @@
+## Essential Oils Safe for Dogs
+
 | Essential Oil | Safe Count | Benefits |
 |-|-|-|
 | Chamomile           | 2 | Ease stress, settle upset tummy; encourages tranquility and a sense of well-being |

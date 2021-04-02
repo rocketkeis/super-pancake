@@ -27,8 +27,8 @@ What's sleep?            | 2-2-1   Lavender, Cedarwood, Peace & Calming
 Weekend recharge         | 2-2-1   Frankincense, Lime, Peppermint 
 Get it done              | 2-2-1-1 Citrus Fresh, Rosemary, Peppermint, Orange 
 To help you focus        | 2-all   Lavender, Vetiver, Cedar wood
-                         | 3-2     Lemon, Peppermint | I do 4-4, sobra kaya?
-                         | 3-2-1-1 Lemon, Lavender, Rosemary, Basil
-                         | 3-1-1   Lemon, Peppermint, Rosemary
+|                        | 3-2     Lemon, Peppermint | I do 4-4, sobra kaya?
+|                        | 3-2-1-1 Lemon, Lavender, Rosemary, Basil
+|                        | 3-1-1   Lemon, Peppermint, Rosemary
 Immune boost             | 5-3     Thieves, Lemon
 See ya sniffles          | 5-3     Raven, Thieves

@@ -1,4 +1,6 @@
-# Place to dump some stuff that I need to share
+# Stuff
+
+[Diffuser Blends](diffuser-blends.md)
 
 [Essential Oils - Safe for Dogs](essential-oils-safe-for-dogs.md)
 

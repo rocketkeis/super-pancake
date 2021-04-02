@@ -1,8 +1,8 @@
-## Essential Oils
+# Essential Oils Safe for Dogs
 
 Summarized notes for my future reference.
 
-### Essential Oils Safe for Dogs
+## Essential Oils Safe for Dogs
 
 | Essential Oil | Safe Count | Benefits |
 |-|-|-|
@@ -23,7 +23,7 @@ Summarized notes for my future reference.
 
 \*Blends: YL DiGize, Stress Away, Valor
 
-### 13 Essential Oil Blends for Dogs
+## 13 Essential Oil Blends for Dogs
 
 For each recipe, combine 5 drops of each oil for a stock blend. When the recipe calls for a hydrosol, mix 5 drops of each oil into 2 oz of the hydrosol. Use the inhalation method with your small stock blend or use in a diffuser. \**Precautions: Don't use any of these recipes directly on your dog's skin or fur. Never allow your dogs to ingest oils in any way.
 
@@ -46,7 +46,7 @@ For each recipe, combine 5 drops of each oil for a stock blend. When the recipe 
 Source: [Dogs Naturally](https://www.dogsnaturallymagazine.com/5-steps-to-make-essential-oils-safe-for-dogs/)
 
 
-### References:
+## References:
 
 * [Wild Earth - What Essential Oils Are Safe for Dogs?](https://wildearth.com/blogs/dog-knowledge/what-essential-oils-are-safe-for-dogs)
 * [New Directions Aromatics - Essential Oils for Your Pet: A Safety Guide](https://www.newdirectionsaromatics.com/blog/products/petfriendly-essential-oils.html)

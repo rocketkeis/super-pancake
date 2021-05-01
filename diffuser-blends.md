@@ -3,7 +3,7 @@
 ## Peppermint AND Lemon
 
 | Drops  | Combo                         | What a similar combo is called |
-|-|-|-|
+|:-|:-|:-|
 | 4-all  | Peppermint, Lemon (PL)    | Wake up (5-4), Afternoon wake-up (3-all), Energize (2-2)
 | 2-2-3  | PL + Thieves                  | Strong immunity
 | 2-all  | PL + R.C.                     | Refreshing
@@ -14,7 +14,7 @@
 ## Peppermint OR Lemon
 
 | Drops  | Combo                         | What a similar combo is called |
-|-|-|-|
+|:-|:-|:-|
 | 4-all  | Peppermint, Citrus Fresh      | Instant fresh (5-3)
 | 1-2    | Peppermint, Stress Away       | Heavenly (3-6)
 | 2-all  | Peppermint, R.C.              | Breathe
@@ -26,7 +26,7 @@
 ## At most three
 
 | Drops    | Oil/Blend                | Combo with                  | What a similar combo is called |
-|-|-|-|-|
+|:-|:-|:-|:-|
 | 4-all    | Peppermint-Lemon         |                             | Wake up (5-4), Afternoon wake-up (3-all), Energize (2-2)
 | 2-2-3    | Peppermint-Lemon         | Thieves                     | Strong immunity
 | 2-all    | Peppermint-Lemon         | R.C.                        | Refreshing
@@ -67,7 +67,7 @@
 ## Other blends to try
 
 | Drops    | Combo                                         | What a similar combo is called |
-|-|-|-|
+|:-|:-|:-|
 | 3-2-2    | Lime, Peppermint, Stress Away                 |  It's 5 o'clock somewhere   
 | 2-2-1-1  | Thieves, Orange, Lavender, Lemon              |  Immune boost               
 | 2-2-1    | Lavender, Stress Away, Frankincense           |  Before the big meeting     

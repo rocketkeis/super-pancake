@@ -1,8 +1,3 @@
----
-layout: page
-title: Diffuser blends
----
-
 # Diffuser blends
 
 ## Peppermint AND Lemon

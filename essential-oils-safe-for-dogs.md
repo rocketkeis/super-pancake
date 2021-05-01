@@ -5,7 +5,7 @@ Summarized notes for my future reference.
 ## Essential Oils Safe for Dogs
 
 | Essential Oil | Safe Count | Benefits |
-|-|-|-|
+|:-|-|:-|
 | Chamomile           | 2 | Ease stress, settle upset tummy; encourages tranquility and a sense of well-being |
 | Frankincense        | 4 | Health and immunity of cells, support their digestive tracts if stress is causing an upset stomach; encourages tranquility and a sense of confidence |
 | Ginger              | 2 | Clear out our respiratory tracts, soothe our stomachs; reduces discomfort of joint pain |
@@ -28,7 +28,7 @@ Summarized notes for my future reference.
 For each recipe, combine 5 drops of each oil for a stock blend. When the recipe calls for a hydrosol, mix 5 drops of each oil into 2 oz of the hydrosol. Use the inhalation method with your small stock blend or use in a diffuser. \**Precautions: Don't use any of these recipes directly on your dog's skin or fur. Never allow your dogs to ingest oils in any way.
 
 | Condition | Essential Oils |
-|-|-|
+|:-|:-|
 | Separation axiety | Neroli, Violet leaf, Vetiver, Lavender, and Rose hydrosol |
 | Fear of thunder and fireworks | Frankincense, Rose otto, Hops, and Cornflower hydrosol |
 | Fear of vet or groomer | Frankincense, Violet leaf, Linden blossom |
